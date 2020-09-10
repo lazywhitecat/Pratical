@@ -1,4 +1,4 @@
-from Prac_08.taxt_test_modification import Taxi
+from Prac_08.taxt_modification import Taxi
 
 class silver_service_car(Taxi):
     flagfall = 4.5
